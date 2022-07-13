@@ -33,3 +33,9 @@ yay -S obsidian discord firefox moc cava vlc bpytop kitty dmenu rofi feh polybar
 git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
 
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+
+mv Deploy_Black_Crusader_OS/mug.zip .config/
+
+cd .config
+
+unzip mug.zip .
