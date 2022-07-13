@@ -38,4 +38,4 @@ mv Deploy_Black_Crusader_OS/mug.zip .config/
 
 cd .config
 
-unzip mug.zip .
+unzip mug.zip
