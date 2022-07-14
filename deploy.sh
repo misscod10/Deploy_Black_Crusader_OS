@@ -39,3 +39,5 @@ mv Deploy_Black_Crusader_OS/mug.zip .config/
 cd .config
 
 unzip mug.zip
+
+yay -S lightdm-webkit-theme-osmos
