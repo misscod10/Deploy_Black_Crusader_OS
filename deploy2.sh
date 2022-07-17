@@ -1,6 +1,8 @@
 #/bin/bash
 
-cp .zshrc ~/.zshrc
+cd
+
+cp Deploy_Black_Crusader_OS/.zshrc ~/.zshrc
 
 git clone https://github.com/spaceship-prompt/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt" --depth=1
 
