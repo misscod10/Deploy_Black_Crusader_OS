@@ -16,7 +16,7 @@ yay -S python-i3ipc nautilus
 
 git clone https://github.com/olemartinorg/i3-alternating-layout
 
-yay -S nodejs yarn npm vim-plug obsidian discord firefox moc cava vlc bpytop kitty dmenu rofi feh polybarbluez blueman pulseaudio-bluetooth timeshift
+yay -S nodejs yarn npm vim-plug obsidian discord firefox moc cava vlc bpytop kitty dmenu rofi feh polybarbluez blueman pulseaudio-bluetooth timeshift bluez 
 
 mv Deploy_Black_Crusader_OS/mug.zip .config/
 
@@ -34,4 +34,3 @@ systemctl start bluetooth
 wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
 
 sh install.sh
-
